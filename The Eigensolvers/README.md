@@ -5,7 +5,7 @@
 
 - The Eigensolvers Hackathons
 
-- The Eigensolver Talk
+- The Eigensolvers Talk
    - Scott Aaronson
    - Gil Kalai
    - Mark Jackson from Cambridge Quantum Computing
