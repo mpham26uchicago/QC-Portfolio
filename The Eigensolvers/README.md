@@ -1,4 +1,4 @@
-The Eigensolvers Materials
+# The Eigensolvers Materials
 
 - The Eigensolvers Quantum School
   - Day 4
