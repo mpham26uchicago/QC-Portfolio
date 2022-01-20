@@ -1,4 +1,4 @@
-Articles:
+Articles: 
 
 1. Understanding Quantum Supremacy
 
